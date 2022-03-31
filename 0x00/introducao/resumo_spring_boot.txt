@@ -1,0 +1,20 @@
+O que é Spring Boot Framework?
+R: O Spring Boot é um projeto da Spring que veio para facilitar 
+o processo de configuração e publicação de nossas aplicações. 
+A intenção é ter o seu projeto rodando o mais rápido possível e sem complicação.
+
+=======================================================================================
+Quais são os benefícios e recursos que Spring Boot fornece?
+R: O beneficio é otimizar o tempo e gerar mais produtividade!
+
+=======================================================================================
+Como é feita a adição de novas dependências (JPA, Hibernate, etc…) ?
+R: Basta ir até o POM.xml
+
+=======================================================================================
+Na sua opinião, qual melhor IDE para utilizar para trabalhar como Spring Boot: Spring Tools Suites, IntelliJ IDEA, Eclipse ou NetBeans ?
+R: Bom, depende de qual IDE você tem mais afinidade, eu gosto de usar pelo Eclipse.
+=======================================================================================
+O que é Spring Initializer?
+R:SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar 
+seu projeto a partir de uma estrutura de configurações pré-moldadas
